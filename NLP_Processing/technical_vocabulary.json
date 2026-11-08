@@ -1,0 +1,37 @@
+
+{
+  "protocols": [
+    "Modbus TCP",
+    "Modbus RTU",
+    "OPC UA",
+    "MQTT",
+    "EtherNet/IP",
+    "PROFINET"
+  ],
+"equipment": [
+    "power meter",
+    "power meters",
+    "PLC",
+    "PLCs",
+    "pump",
+    "pumps",
+    "motor",
+    "motors",
+    "packaging machine",
+    "packaging machines",
+    "sensor",
+    "sensors",
+    "flow meter",
+    "flow meters",
+    "temperature transmitter",
+    "temperature transmitters"
+],
+  "data_destinations": [
+    "AVEVA PI",
+    "PI Data Archive",
+    "AVEVA CONNECT",
+    "Databricks",
+    "SQL Server",
+    "Azure"
+  ]
+}

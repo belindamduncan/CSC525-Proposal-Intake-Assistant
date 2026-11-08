@@ -1,0 +1,91 @@
+﻿customer_request,classification_label
+We need a centralized system to store equipment operating data from our manufacturing facility.,historian_visualization
+Our maintenance team wants to review historical temperature and pressure trends to investigate equipment failures.,historian_visualization
+We would like web-based dashboards that show production line performance and equipment status.,historian_visualization
+Our engineers need to compare machine operating conditions before and after an unexpected shutdown.,historian_visualization
+We currently use spreadsheets to track production measurements and want a better way to visualize the information.,historian_visualization
+We are looking for a historian solution that can retain operational measurements for long-term analysis.,historian_visualization
+"Our supervisors need a dashboard showing downtime events, production totals, and equipment availability.",historian_visualization
+We want to create PI Vision displays that allow operators to monitor equipment performance.,historian_visualization
+Our facility needs a way to review motor current and temperature trends over several months.,historian_visualization
+We would like to organize equipment data using an asset hierarchy so engineers can easily locate measurements.,historian_visualization
+Our maintenance technicians need access to historical equipment readings without searching through multiple systems.,historian_visualization
+We want to compare production performance between different shifts using historical operating data.,historian_visualization
+Our plant needs a central repository for process measurements collected throughout the production environment.,historian_visualization
+"We would like to build dashboards that display equipment alarms, operating conditions, and historical trends.",historian_visualization
+Our engineering team wants to analyze recurring equipment problems using stored process data.,historian_visualization
+We need to expand our existing PI System to store additional equipment measurements.,historian_visualization
+Our production managers want a consolidated view of equipment performance across multiple manufacturing lines.,historian_visualization
+We need historical trend displays that help technicians identify changes in equipment behavior over time.,historian_visualization
+"Our operators currently monitor individual HMI screens, but we want a common dashboard for the entire facility.",historian_visualization
+We want to retain process measurements so our engineers can investigate quality problems after production is complete.,historian_visualization
+Our organization needs to replace manual equipment logs with a system that records and displays operational history.,historian_visualization
+We would like to configure Asset Framework templates to standardize how equipment information is organized.,historian_visualization
+Our team needs to view equipment status and production trends from different plant locations through a browser.,historian_visualization
+We want to monitor equipment performance using dashboards that combine real-time values and historical measurements.,historian_visualization
+Our maintenance department needs historical data to determine what operating conditions existed before a motor failure.,historian_visualization
+We are planning to implement a plant historian to support troubleshooting and operational reporting.,historian_visualization
+Our engineers want to compare temperature and pressure trends across similar production assets.,historian_visualization
+We need a visualization solution that allows supervisors to review daily production performance without manually creating reports.,historian_visualization
+"Our existing historian contains operational data, but we need better dashboards and trend displays for our users.",historian_visualization
+We want to improve equipment reliability by making historical operating measurements easier for maintenance and engineering teams to access.,historian_visualization
+Our corporate analytics team needs access to manufacturing data stored in our local plant historians.,cloud_data_sharing
+We want to make selected operational measurements available to our cloud analytics platform.,cloud_data_sharing
+"Our facilities currently email spreadsheets to headquarters, and we need an automated way to share production data.",cloud_data_sharing
+We would like to integrate our existing PI System with a cloud-based reporting environment.,cloud_data_sharing
+Our organization wants to share equipment performance data from multiple plants with a central analytics team.,cloud_data_sharing
+We need a secure method for transferring historian data to our corporate cloud environment.,cloud_data_sharing
+Our engineering team wants to publish selected operational data streams to AVEVA CONNECT for external analysis.,cloud_data_sharing
+We want to provide our Databricks environment with access to manufacturing measurements collected at our facilities.,cloud_data_sharing
+Our company needs to consolidate energy consumption information from several sites into a cloud reporting platform.,cloud_data_sharing
+We would like to eliminate manual data exports by automatically sharing production measurements with our cloud analytics team.,cloud_data_sharing
+Our analysts need access to operational history without connecting directly to individual plant historians.,cloud_data_sharing
+We want to establish a controlled data-sharing process between our manufacturing network and a cloud analytics environment.,cloud_data_sharing
+Our organization needs to make selected equipment measurements available through cloud-based data services.,cloud_data_sharing
+We would like to use AVEVA CONNECT to share operational information with authorized corporate users.,cloud_data_sharing
+Our analytics team needs consistent access to production and energy data collected at different manufacturing facilities.,cloud_data_sharing
+We want to create cloud data views that allow analysts to query selected operational measurements.,cloud_data_sharing
+Our company needs to transfer historical equipment information from our on-premises systems to a cloud platform.,cloud_data_sharing
+We would like to make operational data available to external analytics applications through secure APIs.,cloud_data_sharing
+Our corporate reporting team wants hourly updates of production measurements from several manufacturing plants.,cloud_data_sharing
+We need to establish a connection between our existing historian environment and a cloud-based data warehouse.,cloud_data_sharing
+Our organization wants to share equipment operating data with a cloud platform used for predictive analytics.,cloud_data_sharing
+We would like to standardize measurement names across facilities before publishing the data to our cloud analytics environment.,cloud_data_sharing
+Our company needs a secure way to provide selected operational datasets to authorized external business partners.,cloud_data_sharing
+We want our corporate analytics team to access plant data through a cloud service instead of requesting individual reports.,cloud_data_sharing
+Our manufacturing sites need to deliver energy and production measurements to a centralized cloud environment.,cloud_data_sharing
+We would like to configure data sharing between AVEVA CONNECT and our existing analytics tools.,cloud_data_sharing
+Our organization needs to make selected historian data available for enterprise reporting and cross-site comparisons.,cloud_data_sharing
+We want to reduce manual reporting by providing our cloud analytics platform with regularly updated operational information.,cloud_data_sharing
+Our corporate data science team needs access to manufacturing measurements for analysis in Databricks.,cloud_data_sharing
+We are looking for a solution that securely shares plant operational data with our cloud-based business intelligence environment.,cloud_data_sharing
+We need to collect process measurements from our PLCs and send them to an existing historian.,source_connectivity
+"Our new packaging machines support OPC UA, and we want to collect their operating data.",source_connectivity
+We have several Modbus TCP power meters that need to be connected to a central data collection system.,source_connectivity
+Our engineering team needs a reliable method for reading equipment measurements from industrial controllers.,source_connectivity
+We want to configure an OPC UA connection to retrieve temperature and pressure values from our production machines.,source_connectivity
+"Our facility needs to collect voltage, current, and energy readings from network-connected meters.",source_connectivity
+We would like to connect our existing PLCs to a data collection application without changing the control programs.,source_connectivity
+"Our equipment publishes MQTT messages, and we need to receive the measurements in our operational data system.",source_connectivity
+We need to configure a Modbus TCP connection to collect register values from our electrical equipment.,source_connectivity
+Our maintenance team wants to capture machine fault states and operating speeds from new production equipment.,source_connectivity
+We have an OPC UA server available but need a way to subscribe to selected equipment measurements.,source_connectivity
+Our organization needs an adapter that can read industrial data and forward it to our historian.,source_connectivity
+We want to collect measurements from multiple PLCs located on different production networks.,source_connectivity
+Our plant needs to configure secure OPC UA communication between equipment and our data collection server.,source_connectivity
+We need to read Modbus register addresses from several power meters and organize the collected measurements.,source_connectivity
+"Our manufacturing equipment provides data through MQTT, but we have not configured a system to receive it.",source_connectivity
+We want to connect an industrial database to our operational data environment to retrieve production records.,source_connectivity
+Our engineers need to determine the appropriate polling intervals for collecting measurements from Modbus TCP devices.,source_connectivity
+We would like to configure OPC UA certificates and security settings so our machines can communicate with the data collection software.,source_connectivity
+Our facility needs to collect equipment status information from controllers installed across several manufacturing lines.,source_connectivity
+We have a SQL database containing production measurements and want to integrate those records into our historian.,source_connectivity
+Our maintenance department needs a reliable connection to retrieve fault codes and operating conditions from packaging machines.,source_connectivity
+We want to configure an adapter to collect measurements from industrial devices and handle temporary network interruptions.,source_connectivity
+Our new equipment exposes process data through OPC UA endpoints that need to be integrated with our existing systems.,source_connectivity
+We need to collect real-time electrical measurements from approximately 40 Modbus TCP meters.,source_connectivity
+Our organization wants to receive MQTT data from remote equipment and make it available for operational monitoring.,source_connectivity
+We would like to configure data collection from PLCs using available industrial communication protocols.,source_connectivity
+Our plant needs to map Modbus registers and apply scaling factors before sending measurements to a central system.,source_connectivity
+We want to establish a reliable data connection between our production machines and an existing historian.,source_connectivity
+Our engineering team needs to integrate equipment data from several industrial sources into a common collection environment.,source_connectivity
